@@ -1,0 +1,19 @@
+ROVO V3 fixes
+- Real browser GPS coordinates passed to Flask AI backend
+- Nearest pickup hub distance using Haversine calculation
+- Editable current location in header
+- Manual supported-location picker
+- Hill/ghat/mountain intent and destination awareness
+- Hill suitability added to AI ranking
+- Distance-aware "near me / closest" ranking
+- Distinct car models in AI results
+- Horizontal AI recommendation slider with scrollbar and arrows
+- AI View Car buttons open the real car details modal
+- Car cards/details show nearest pickup and distance
+- New AI chat/reset button
+- Logout in header and Profile
+- 240 seeded vehicles across fuel/categories/years
+- 3 unique pickup hubs per seeded vehicle
+- More Mumbai-region hubs
+- Owner uploaded photos render in listings
+- Smoke test script added
